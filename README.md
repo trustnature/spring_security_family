@@ -1,0 +1,3 @@
+Springboot_security_jsp ：可界面配置权限信息
+Springboot_security_jwt_rsa_parent : 使用SpringSecurity JWT 做的一个单点登录系统 不是微服务架构
+JWT令牌使用RSA私钥加密、公钥解密方式生成
